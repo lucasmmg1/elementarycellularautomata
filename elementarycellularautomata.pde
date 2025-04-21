@@ -1,4 +1,6 @@
 int RULESET_ID = 110;
+
+
 int[] cells;
 int w = 5;
 int yPos = 0;
